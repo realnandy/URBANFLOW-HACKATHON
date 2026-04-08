@@ -67,9 +67,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Rama-2805/rama.git
-cd rama
-```
+https://github.com/realnandy/URBANFLOW-HACKATHON
 
 ### 2. Backend Setup
 ```bash
