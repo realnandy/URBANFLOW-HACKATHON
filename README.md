@@ -93,7 +93,7 @@ npm run dev
 ```
 
 ### 4. Open the App
-Navigate to **http://localhost:5173**
+Navigate to https://urbanflow-3d.vercel.app
 
 ---
 
